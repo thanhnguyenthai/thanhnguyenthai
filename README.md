@@ -14,12 +14,12 @@ I'm a recent Computer Science graduate from Vistula University, passionate about
 ### d-studio.page – Community Dance Platform
 - Built a multilingual website using WordPress, Elementor, and WooCommerce, enabling seamless scheduling and class registration.  
 - Increased class participation by 50% and stabilized monthly revenue at 5,000-7,000 PLN by enhancing customer experience.  
-- [View Project](#) *(Thêm link nếu có)*
+[https://d-studio.page](https://d-studio.page/)
 
 ### Automated Data Entry Tool
 - Developed a Python script to automate data entry from Excel to web platforms, reducing manual workload by 30%.  
 - Improved data accuracy for sales operations at Wolka Kosowska.  
-- [View Code](#) *(Thêm link nếu có)*
+
 
 ## 🛠️ Skills
 - **Programming & Web Development**: HTML, CSS, JavaScript (basic), WordPress, Elementor, WooCommerce, Python (data automation)  
